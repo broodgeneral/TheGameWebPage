@@ -21,8 +21,9 @@ h2 {color: #678983;
 li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     list-style: none;
+    padding-left: 5px;
+    line-height: 2.5;
 }
 h3 {color: #678983;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-        font
 }
